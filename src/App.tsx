@@ -1,5 +1,13 @@
 export default function App() {
   return (
-    <h1>MailShield AI is Working 🚀</h1>
+    <div style={{
+      display: "flex",
+      justifyContent: "center",
+      alignItems: "center",
+      height: "100vh",
+      fontFamily: "Arial"
+    }}>
+      <h1>MailShield AI 🚀</h1>
+    </div>
   );
 }
